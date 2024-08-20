@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Extinwata
-and this is my new OSINT project :D
-![Screnshot](https://github.com/Extinwata/blob/main/photo_2024-08-20_16-47-24.png)
+- 👋 Привет, я @Extinwata
+и это мой новый OSINT-проект :D
